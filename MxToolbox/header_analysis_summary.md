@@ -1,6 +1,6 @@
 # Header Analysis Summary (From MxToolbox)
 
-###Key Findings:
+### Key Findings:
 
 ## Spoofed "From" Address
 
