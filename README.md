@@ -43,9 +43,8 @@ Analyze a suspicious email to identify phishing indicators such as spoofed addre
 
 ## Files Included:
 
-- `Phishing-email-sample.md`: Raw phishing email sample.
-- `Header-analysis.txt`: Output from email header analysis.
-- `Phishing-analysis-report.md`: Detailed breakdown of phishing traits.
+- `phishing-email-sample.md`: Raw phishing email sample.
+- `header_analysis_summary.md`: Output from email header analysis.
 - `README.md`: Documentation.
 
 ---
