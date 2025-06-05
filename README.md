@@ -1,4 +1,4 @@
-# Task 2 - Phishing Email Analysis | Cyber Security Internship
+# Phishing Email Analysis | Cyber Security
 
 ## Objective:
 
